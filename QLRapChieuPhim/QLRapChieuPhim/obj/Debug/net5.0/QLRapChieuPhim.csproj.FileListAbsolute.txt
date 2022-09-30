@@ -1,0 +1,114 @@
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\appsettings.Development.json
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\appsettings.json
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\QLRapChieuPhim.exe
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\QLRapChieuPhim.deps.json
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\QLRapChieuPhim.runtimeconfig.json
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\QLRapChieuPhim.runtimeconfig.dev.json
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\QLRapChieuPhim.dll
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\ref\QLRapChieuPhim.dll
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\QLRapChieuPhim.pdb
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\QLRapChieuPhim.Views.dll
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\QLRapChieuPhim.Views.pdb
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\Google.Protobuf.dll
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\Grpc.Net.Client.dll
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\Grpc.Net.Common.dll
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.AssemblyInfoInputs.cache
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.AssemblyInfo.cs
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.csproj.CoreCompileInputs.cache
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.MvcApplicationPartsAssemblyInfo.cache
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.RazorAssemblyInfo.cache
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.RazorAssemblyInfo.cs
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\staticwebassets\QLRapChieuPhim.StaticWebAssets.Manifest.cache
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\staticwebassets\QLRapChieuPhim.StaticWebAssets.xml
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\scopedcss\bundle\QLRapChieuPhim.styles.css
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.TagHelpers.input.cache
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.TagHelpers.output.cache
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.RazorCoreGenerate.cache
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.RazorTargetAssemblyInfo.cache
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.RazorTargetAssemblyInfo.cs
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.Views.pdb
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.csproj.CopyComplete
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.dll
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\ref\QLRapChieuPhim.dll
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.pdb
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.genruntimeconfig.cache
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.csprojAssemblyReference.cache
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\DanhSachPhim.cshtml.g.cs
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\CapNhatPhim.cshtml.g.cs
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\ThemPhimMoi.cshtml.g.cs
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\TimKiem.cshtml.g.cs
+D:\LTV .Net 2020\Module_1\Sources\06_Trien_khai_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\ThongTinPhim.cshtml.g.cs
+D:\Works\Nam 2020\Module_1\Cung_cap_hv\07_Khai_thac_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.csprojAssemblyReference.cache
+D:\Works\Nam 2020\Module_1\Cung_cap_hv\07_Khai_thac_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\Nam 2020\Module_1\Cung_cap_hv\07_Khai_thac_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.AssemblyInfoInputs.cache
+D:\Works\Nam 2020\Module_1\Cung_cap_hv\07_Khai_thac_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.AssemblyInfo.cs
+D:\Works\Nam 2020\Module_1\Cung_cap_hv\07_Khai_thac_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.csproj.CoreCompileInputs.cache
+D:\Works\Nam 2020\Module_1\Cung_cap_hv\07_Khai_thac_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.MvcApplicationPartsAssemblyInfo.cache
+D:\Works\Nam 2020\Module_1\Cung_cap_hv\07_Khai_thac_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.RazorAssemblyInfo.cache
+D:\Works\Nam 2020\Module_1\Cung_cap_hv\07_Khai_thac_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.RazorAssemblyInfo.cs
+D:\Works\Nam 2020\Module_1\Cung_cap_hv\07_Khai_thac_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.dll
+D:\Works\Nam 2020\Module_1\Cung_cap_hv\07_Khai_thac_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\ref\QLRapChieuPhim.dll
+D:\Works\Nam 2020\Module_1\Cung_cap_hv\07_Khai_thac_gRPC\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.pdb
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.GeneratedMSBuildEditorConfig.editorconfig
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.AssemblyInfoInputs.cache
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.AssemblyInfo.cs
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.csproj.CoreCompileInputs.cache
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.MvcApplicationPartsAssemblyInfo.cache
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.RazorAssemblyInfo.cache
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.RazorAssemblyInfo.cs
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.dll
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\ref\QLRapChieuPhim.dll
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.pdb
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\appsettings.Development.json
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\appsettings.json
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\QLRapChieuPhim.exe
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\QLRapChieuPhim.deps.json
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\QLRapChieuPhim.runtimeconfig.json
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\QLRapChieuPhim.runtimeconfig.dev.json
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\QLRapChieuPhim.dll
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\ref\QLRapChieuPhim.dll
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\QLRapChieuPhim.pdb
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\QLRapChieuPhim.Views.dll
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\QLRapChieuPhim.Views.pdb
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\Google.Protobuf.dll
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\Grpc.Net.Client.dll
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\bin\Debug\net5.0\Grpc.Net.Common.dll
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\staticwebassets\QLRapChieuPhim.StaticWebAssets.Manifest.cache
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\staticwebassets\QLRapChieuPhim.StaticWebAssets.xml
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\scopedcss\bundle\QLRapChieuPhim.styles.css
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.TagHelpers.input.cache
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.TagHelpers.output.cache
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.RazorCoreGenerate.cache
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\CapNhatPhim.cshtml.g.cs
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\DanhSachPhim.cshtml.g.cs
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\ThemPhimMoi.cshtml.g.cs
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\ThongTinPhim.cshtml.g.cs
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\TimKiem.cshtml.g.cs
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.RazorTargetAssemblyInfo.cache
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.RazorTargetAssemblyInfo.cs
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.Views.pdb
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.csproj.CopyComplete
+D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.genruntimeconfig.cache
