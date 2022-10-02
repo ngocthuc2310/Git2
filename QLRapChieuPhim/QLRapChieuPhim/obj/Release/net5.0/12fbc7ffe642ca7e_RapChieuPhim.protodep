@@ -1,0 +1,3 @@
+obj\Release\net5.0\Protos/RapChieuPhim.cs \
+obj\Release\net5.0\Protos/RapChieuPhimGrpc.cs: C:/Users/hv/.nuget/packages/grpc.tools/2.48.0/build/native/include/google/protobuf/timestamp.proto\
+ Protos/RapChieuPhim.proto

@@ -1,5 +1,5 @@
 ﻿using Grpc.Net.Client;
-using grpcQLRapChieuPhim;
+using gRPCRapChieuPhim;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;

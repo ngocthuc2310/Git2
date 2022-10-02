@@ -112,3 +112,11 @@ D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuP
 D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.Views.pdb
 D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.csproj.CopyComplete
 D:\NE21_276_277\Chap7\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.genruntimeconfig.cache
+D:\NgocThuc-XinDungXoa\Git\Git2\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.GeneratedMSBuildEditorConfig.editorconfig
+D:\NgocThuc-XinDungXoa\Git\Git2\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.csproj.AssemblyReference.cache
+D:\NgocThuc-XinDungXoa\Git\Git2\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.AssemblyInfoInputs.cache
+D:\NgocThuc-XinDungXoa\Git\Git2\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.AssemblyInfo.cs
+D:\NgocThuc-XinDungXoa\Git\Git2\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.csproj.CoreCompileInputs.cache
+D:\NgocThuc-XinDungXoa\Git\Git2\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.MvcApplicationPartsAssemblyInfo.cache
+D:\NgocThuc-XinDungXoa\Git\Git2\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.RazorAssemblyInfo.cache
+D:\NgocThuc-XinDungXoa\Git\Git2\QLRapChieuPhim\QLRapChieuPhim\obj\Debug\net5.0\QLRapChieuPhim.RazorAssemblyInfo.cs

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NE21_276_277\\Chap7\\QLRapChieuPhim\\QLRapChieuPhim\\QLRapChieuPhim.csproj": {}
+    "D:\\NgocThuc-XinDungXoa\\Git\\Git2\\QLRapChieuPhim\\QLRapChieuPhim\\QLRapChieuPhim.csproj": {}
   },
   "projects": {
-    "D:\\NE21_276_277\\Chap7\\QLRapChieuPhim\\QLRapChieuPhim\\QLRapChieuPhim.csproj": {
+    "D:\\NgocThuc-XinDungXoa\\Git\\Git2\\QLRapChieuPhim\\QLRapChieuPhim\\QLRapChieuPhim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NE21_276_277\\Chap7\\QLRapChieuPhim\\QLRapChieuPhim\\QLRapChieuPhim.csproj",
+        "projectUniqueName": "D:\\NgocThuc-XinDungXoa\\Git\\Git2\\QLRapChieuPhim\\QLRapChieuPhim\\QLRapChieuPhim.csproj",
         "projectName": "QLRapChieuPhim",
-        "projectPath": "D:\\NE21_276_277\\Chap7\\QLRapChieuPhim\\QLRapChieuPhim\\QLRapChieuPhim.csproj",
+        "projectPath": "D:\\NgocThuc-XinDungXoa\\Git\\Git2\\QLRapChieuPhim\\QLRapChieuPhim\\QLRapChieuPhim.csproj",
         "packagesPath": "C:\\Users\\hv\\.nuget\\packages\\",
-        "outputPath": "D:\\NE21_276_277\\Chap7\\QLRapChieuPhim\\QLRapChieuPhim\\obj\\",
+        "outputPath": "D:\\NgocThuc-XinDungXoa\\Git\\Git2\\QLRapChieuPhim\\QLRapChieuPhim\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -6,7 +6,7 @@ using Grpc.Net.Client;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using QLRapChieuPhim.Models;
-using grpcQLRapChieuPhim;
+using gRPCRapChieuPhim;
 
 namespace QLRapChieuPhim.Pages
 {
@@ -24,14 +24,14 @@ namespace QLRapChieuPhim.Pages
             var channel = GrpcChannel.ForAddress(Common.ServiceLink);
             var client = new RapChieuPhim.RapChieuPhimClient(channel);
 
-            var responseTheloai = client.DocDanhSachTheLoai(new Empty());
-            var responseXephang = client.DocDanhSachXepHangPhim(new Empty());
+            var responseTheloai = client.DanhSachTheLoai(new Input.Types.Empty());
+            var responseXephang = client.DanhSachXepHangPhim(new Input.Types.Empty());
 
-            if (TheLoaiId <= 0) TheLoaiId = responseTheloai.DanhSachTheLoai[0].Id;
+            if (TheLoaiId <= 0) TheLoaiId = responseTheloai.Items[0].Id;
 
-            var input = new PhimTheoTheLoaiInput { TheLoaiId = this.TheLoaiId };
-            var response = client.DocPhimTheoTheLoai(input);
-            DanhSachPhim = response.DanhSachPhim.Select(phim => new PhimModel
+            var input = new Input.Types.PhimTheoTheLoai { TheLoaiId = this.TheLoaiId };
+            var response = client.DanhSachPhimTheoTheLoai(input);
+            DanhSachPhim = response.Items.Select(phim => new PhimModel
             {
                 Id = phim.Id,
                 TenPhim = phim.TenPhim,
@@ -74,14 +74,14 @@ namespace QLRapChieuPhim.Pages
                 phim.DanhSachTheLoai = dsTheloais;
             }
             */
-            DanhSachTheLoai = responseTheloai.DanhSachTheLoai
+            DanhSachTheLoai = responseTheloai.Items
                                             .Select(x => new TheLoaiPhimModel
                                             {
                                                 Id = x.Id,
                                                 Ten = x.Ten
                                             })
                                             .ToList();
-            DanhSachXepHangPhim = responseXephang.DanhSachXepHang
+            DanhSachXepHangPhim = responseXephang.Items
                                                 .Select(x => new XepHangPhimModel
                                                 {
                                                     Id = x.Id,

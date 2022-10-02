@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AollkMWLFGDVjtk3LudUIvs9V6+lChGuIMYqw7FQrELknA1fzcpMR092+nC9V6tFGB+MlB8X2KuO3Hp8anJYOQ==",
+  "dgSpecHash": "B9Ih+4bf+azKPSbvuEVfAv11LzEbrRVXgb1p+eQ9PKxIV5INM4Emoks2GDKFp5jhWV5+ciPm5h8bIa7wyfJlAw==",
   "success": true,
-  "projectFilePath": "D:\\NE21_276_277\\Chap7\\QLRapChieuPhim\\QLRapChieuPhim\\QLRapChieuPhim.csproj",
+  "projectFilePath": "D:\\NgocThuc-XinDungXoa\\Git\\Git2\\QLRapChieuPhim\\QLRapChieuPhim\\QLRapChieuPhim.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hv\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\hv\\.nuget\\packages\\grpc.aspnetcore\\2.48.0\\grpc.aspnetcore.2.48.0.nupkg.sha512",
