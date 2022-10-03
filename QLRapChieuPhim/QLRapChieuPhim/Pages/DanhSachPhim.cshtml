@@ -77,14 +77,17 @@
                             <p class="movie__option"><strong>@xephang.Ten</strong></p>
                         }
 
-                        <div class="movie__btns">
-                            <a href="#" class="btn btn-md btn-- btn--warning">Đặt vé</a>
-                            <a href="#" class="watch-trailer">Trailer</a>
-                            <div class="clearfix"></div>
-                            <a href="/CapNhatPhim?phimid=@phim.Id" class="btn btn--default" style="margin-top: 20px;color: #fff;">
-                                <i class="fa fa-pencil-square-o" aria-hidden="true" style="font-size: 16px;"></i> Edit
-                            </a>
-                        </div>
+                    <div class="movie__btns">
+                        <a href="#" class="btn btn-md btn-- btn--warning">Đặt vé</a>
+                        @if (string.IsNullOrEmpty(phim.Trailer))
+                        {
+                            <a href="#" class="watch-trailer" data-link="@phim.Trailer" data-title="@phim.TenPhim">Trailer</a>
+                        }
+                        <div class="clearfix"></div>
+                        <a href="/CapNhatPhim?phimid=@phim.Id" class="btn btn--default" style="margin-top: 20px;color: #fff;">
+                            <i class="fa fa-pencil-square-o" aria-hidden="true" style="font-size: 16px;"></i> Edit
+                        </a>
+                    </div>
 
                     </div>
 
@@ -102,7 +105,35 @@
         </div>
     </div>
 
+    <div id="dialog-message" title="Trailer">
+        <div style="margin: 10px 0;min-width: 560px; min-height: 315px;">
+            <iframe id="viewtrailer" width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    </div>
+
+
 </section>
 <script type="text/javascript">
-        
+    //jQuery(document).ready(function () {
+    //    init_MovieList();
+    //});
+    //$('form select').on('change', function () {
+    //    $(this).closest('form').submit();
+    //});
+    $('.watch-trailer').click(function () {
+        var tieude = $(this).data("title");
+        var link = $(this).data("link");
+        $('#viewtrailer').attr('src', link);
+        $("#dialog-message").attr('title', tieude);
+        $("#dialog-message").dialog({
+            modal: true,
+            width: 600,
+            height: 415,
+            buttons: {
+                Ok: function () {
+                    $(this).dialog("close");
+                }
+            }
+        });
+    });
 </script>
