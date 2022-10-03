@@ -9,6 +9,7 @@ namespace QLRapChieuPhim.Pages
 {
     public class testGitModel : PageModel
     {
+        public int MyProperty { get; set; }
         public void OnGet()
         {
         }
