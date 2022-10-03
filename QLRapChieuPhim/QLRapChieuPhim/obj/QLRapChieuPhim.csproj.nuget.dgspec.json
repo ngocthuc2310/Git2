@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NgocThuc-XinDungXoa\\Git\\Git2\\QLRapChieuPhim\\QLRapChieuPhim\\QLRapChieuPhim.csproj": {}
+    "F:\\HocKHTN\\GitThuc\\Git2\\QLRapChieuPhim\\QLRapChieuPhim\\QLRapChieuPhim.csproj": {}
   },
   "projects": {
-    "D:\\NgocThuc-XinDungXoa\\Git\\Git2\\QLRapChieuPhim\\QLRapChieuPhim\\QLRapChieuPhim.csproj": {
+    "F:\\HocKHTN\\GitThuc\\Git2\\QLRapChieuPhim\\QLRapChieuPhim\\QLRapChieuPhim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NgocThuc-XinDungXoa\\Git\\Git2\\QLRapChieuPhim\\QLRapChieuPhim\\QLRapChieuPhim.csproj",
+        "projectUniqueName": "F:\\HocKHTN\\GitThuc\\Git2\\QLRapChieuPhim\\QLRapChieuPhim\\QLRapChieuPhim.csproj",
         "projectName": "QLRapChieuPhim",
-        "projectPath": "D:\\NgocThuc-XinDungXoa\\Git\\Git2\\QLRapChieuPhim\\QLRapChieuPhim\\QLRapChieuPhim.csproj",
-        "packagesPath": "C:\\Users\\hv\\.nuget\\packages\\",
-        "outputPath": "D:\\NgocThuc-XinDungXoa\\Git\\Git2\\QLRapChieuPhim\\QLRapChieuPhim\\obj\\",
+        "projectPath": "F:\\HocKHTN\\GitThuc\\Git2\\QLRapChieuPhim\\QLRapChieuPhim\\QLRapChieuPhim.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "F:\\HocKHTN\\GitThuc\\Git2\\QLRapChieuPhim\\QLRapChieuPhim\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\hv\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -72,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     }
