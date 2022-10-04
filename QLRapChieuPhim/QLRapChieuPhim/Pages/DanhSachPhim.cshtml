@@ -19,12 +19,20 @@
         <div class="select-area">
             <form method='get' id="myform" action="/DanhSachPhim?theloaiid=&currentpage=">
                 <label for="category">Thể loại: </label>
-                <select id="TheLoaiId" name="TheLoaiId" class="category-filter" tabindex="0" onchange="myform.submit()">
+                <select id="TheLoaiId" name="Category" class="category-filter" tabindex="0" onchange="myform.submit()">
+                    @if (Model.TheLoaiHienHanh == null)
+                    {
+                        <option value="all" selected='selected'>Tất cả</option>
+                    }
+                    else
+                    {
+                        <option value="all">Tất cả</option>
+                    }
                     @foreach (var tl in Model.DanhSachTheLoai)
                     {
-                        if (tl.Id == Model.TheLoaiId)
+                        if (tl.Id == Model.TheLoaiHienHanh.Id)
                         {
-                            <option value="@tl.Id" selected>@tl.Ten</option>
+                            <option value="@tl.Id" selected="selected">@tl.Ten</option>
                         }
                         else
                         {
@@ -69,17 +77,16 @@
                                 }
                             }
                         </p>
-                        <p class="movie__option"><strong>Ngày khởi chiếu: @(phim.NgayKhoiChieu.Year >= DateTime.Now.Year + 10 ? "Chưa có lịch chiếu": phim.NgayKhoiChieu.ToString("dd/MM/yyyy"))</strong></p>
+                        <p class="movie__option"><strong>Ngày khởi chiếu: @(phim.NgayKhoiChieu==null ? "Chưa có lịch chiếu": phim.NgayKhoiChieu.ToDateTime().ToString("dd/mm/yyyy"))</strong></p>
                         <p class="movie__option"><strong>Đạo diễn: </strong><a href="#">@phim.DaoDien</a></p>
                         <p class="movie__option"><strong>Diễn viên: </strong><a href="#">@phim.DienVien</a></p>
                         @{
-                            var xephang = Model.DanhSachXepHangPhim.FirstOrDefault(x => x.Id.Equals(phim.XepHangPhimId));
-                            <p class="movie__option"><strong>@xephang.Ten</strong></p>
+                            <p class="movie__option"><strong>@phim.XepHang.Ten</strong></p>
                         }
 
                     <div class="movie__btns">
                         <a href="#" class="btn btn-md btn-- btn--warning">Đặt vé</a>
-                        @if (string.IsNullOrEmpty(phim.Trailer))
+                        @if (!string.IsNullOrEmpty(phim.Trailer))
                         {
                             <a href="#" class="watch-trailer" data-link="@phim.Trailer" data-title="@phim.TenPhim">Trailer</a>
                         }
